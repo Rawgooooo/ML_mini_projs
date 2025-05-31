@@ -1,5 +1,5 @@
 # Stacked Convolutional Auto Encoder
-USING PYTORCH.
+USING PYTORCH and TORCH VISION
 
 Stacked CNNs vs Deep CNNs
 and other auto encoding features coverd.
